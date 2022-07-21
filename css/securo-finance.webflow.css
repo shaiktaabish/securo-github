@@ -597,11 +597,6 @@ h2 {
   cursor: pointer;
 }
 
-.logo.center {
-  margin-right: auto;
-  margin-left: auto;
-}
-
 .logo-img {
   width: 100%;
 }
@@ -623,15 +618,6 @@ h2 {
 
 .dropdown-toggle {
   padding: 10px 30px;
-}
-
-.divider {
-  width: 1.5px;
-  height: 30px;
-  min-width: 1.5px;
-  margin-right: 20px;
-  margin-left: 0px;
-  background-color: #2e3836;
 }
 
 .nav-button {
@@ -853,18 +839,6 @@ h2 {
 .flex-align.top {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-}
-
-.max-32px {
-  width: 32px;
-}
-
-.div-block {
-  position: relative;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
 }
 
 .top-navbar {
@@ -1375,11 +1349,6 @@ h2 {
     padding-left: 0px;
   }
 
-  .divider {
-    margin-right: 43px;
-    margin-left: 23px;
-  }
-
   .nav-button {
     height: 60px;
     max-width: 300px;
@@ -1592,10 +1561,6 @@ h2 {
     width: 100%;
     padding: 20px 0px;
     text-align: center;
-  }
-
-  .divider {
-    display: none;
   }
 
   .nav-button {
